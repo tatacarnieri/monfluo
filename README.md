@@ -12,9 +12,9 @@
 
 ### Features
 
-- [x] Cadastro de usuário
+- [ ] Cadastro de pedidos
 - [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] Cadastro de produtos
 
 
 ### 🛠 Tecnologias
