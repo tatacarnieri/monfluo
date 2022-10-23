@@ -3,10 +3,12 @@
 
 <h2 align="center">😊What means monfluo?? </h2>
 <p align="left">It's an Esperanto word that means cash flow.</p>
+<p align="center"> This is an aplication focus on restaurants based on simple form of control cash flow.</p>
+<p align="center"> It begins with a simple DB on MySql</p>
 
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Under🚀 Construction...  🚧
 </h4>
 
 
